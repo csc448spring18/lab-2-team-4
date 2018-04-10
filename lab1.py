@@ -6,8 +6,7 @@ def read_file(filename):
     fp.readline()
     toReturn = fp.read()
     fp.close()
-    print(toReturn)
-    return toReturn
+    return toReturn.strip()
 
 
 def algorithm(filename):
