@@ -1,0 +1,2 @@
+>dm3gene_dna range=contig1:9849-9897 5'pad=0 3'pad=0 strand=+ repeatMasking=none
+CATTTTCCGATGAAAATGGATGCCGACAGCAGTGGAACCCAGCATCGAG
