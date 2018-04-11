@@ -1,8 +1,8 @@
 # lab-2-team-4
 
 
-Usage: python lab1.py <filename>
-The file must be saved in the same directory as the lab1.py file. It should be txt format.
+## Usage: python lab1.py filename
+### The file must be saved in the same directory as the lab1.py file. It should be txt format.
 
 Note: if you have both python 2 and python 3, you may need to run
 Usage: python3 lab1.py <filename>
