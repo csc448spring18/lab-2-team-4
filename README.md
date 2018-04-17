@@ -14,7 +14,7 @@ On average we have 3 billion base pairs in a chromosome, what number of segments
 
 #### Our Pseudocode
  ????
- 
+
 ###Part 1 Specification
 Calculate GC Content as a percentage for entire string.
 
